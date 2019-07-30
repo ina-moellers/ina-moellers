@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Portfolio von Ina Möllers]]></title><description><![CDATA[Hi.]]></description><link>https://lumen.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 30 Jul 2019 19:22:42 GMT</lastBuildDate><item><title><![CDATA[Olympia 2020 - ein Quantensprung für den Einsatz von Künstlicher Intelligenz?]]></title><description><![CDATA[Japan will die Olympischen Spiele 2020 nutzen, um sich einmal mehr als führende asiatische Technologie-Nation zu positionieren. Nach aktuelle Plänen werden die Sommerspiele in Tokyo den größten Einsatz von Technologie, der jemals bei einer Großveranstaltung eingesetzt wurde, erleben. Gleichzeitig bedeuten das Event schon heute einen wahreren Sprung für den Einsatz von AI-Technologien.]]></description><link>https://lumen.netlify.com/posts/kuenstliche-intelligenz-olympia-2020</link><guid isPermaLink="false">https://lumen.netlify.com/posts/kuenstliche-intelligenz-olympia-2020</guid><pubDate>Wed, 31 Jul 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Schon frühere Olympiaden haben gezeigt, dass die Olympischen Spiele nicht nur dem Sport dienen, sondern mitunter auch als globale Plattform für technische Innovationen verstanden werden. So waren die Wettkämpfe von 1936 in Berlin das erste live übertragene Sportereignis der Welt und die Sommerspiele von 1964 in Tokyo haben den gerade rechtzeitig fertiggestellten Hochgeschwindigkeitszug „Shinkansen” einem internationalen Publikum vorgestellt, um nur zwei Beispiele zu nennen.&lt;/p&gt;
+&lt;p&gt;Dass Japan sich mit den Spielen in Tokyo 2020 einmal mehr als führende Technologie-Nation darstellen möchte, verwundert daher kaum. Es wird viel getan, um diesen Ruf in der Welt aufrechtzuerhalten: Zuletzt hat Toyota eigens für die Sportveranstaltung die beiden olympischen Maskottchen „Miraitowa” und „Someity” als Roboter produziert.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f8f57adf5c25561d9d069f581e7a871d/ce988/miraitowa.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAHY1KbjoEAhG2Sxcx//xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIRAxASISL/2gAIAQEAAQUCiKSt9CcaxpLJQjj7EVr/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAeEAACAQMFAAAAAAAAAAAAAAABESEAEDEDIEFhof/aAAgBAQAGPwKgHJDVvKhhFZzfTZnjrb//xAAeEAEAAgIBBQAAAAAAAAAAAAABABEhMVEQQWHB8f/aAAgBAQABPyFURZ9E8JZUwAtS3BO8t72/L4illwjTnhhws9Qus7hxAWPHT//aAAwDAQACAAMAAAAQDOmz/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPxCTUF//xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAgEBPxBY/8QAHBABAQADAQADAAAAAAAAAAAAAREAITFBUWHh/9oACAEBAAE/EDRWAVwgDrZr8s8BZe45TOxa8/ceGfsCWb3szWtYgVq+uKzc9xjmmfSa4d36wQqxtDrgRlcK8OHM/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/f8f57adf5c25561d9d069f581e7a871d/01472/miraitowa.webp 240w,
+/static/f8f57adf5c25561d9d069f581e7a871d/222bd/miraitowa.webp 480w,
+/static/f8f57adf5c25561d9d069f581e7a871d/620b9/miraitowa.webp 960w,
+/static/f8f57adf5c25561d9d069f581e7a871d/28063/miraitowa.webp 1440w,
+/static/f8f57adf5c25561d9d069f581e7a871d/34ef4/miraitowa.webp 1920w,
+/static/f8f57adf5c25561d9d069f581e7a871d/16d15/miraitowa.webp 2894w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/f8f57adf5c25561d9d069f581e7a871d/3bc27/miraitowa.jpg 240w,
+/static/f8f57adf5c25561d9d069f581e7a871d/98431/miraitowa.jpg 480w,
+/static/f8f57adf5c25561d9d069f581e7a871d/b3ee8/miraitowa.jpg 960w,
+/static/f8f57adf5c25561d9d069f581e7a871d/b97fe/miraitowa.jpg 1440w,
+/static/f8f57adf5c25561d9d069f581e7a871d/fb329/miraitowa.jpg 1920w,
+/static/f8f57adf5c25561d9d069f581e7a871d/ce988/miraitowa.jpg 2894w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/f8f57adf5c25561d9d069f581e7a871d/b3ee8/miraitowa.jpg&quot;
+          alt=&quot;Miraitowa roboter maskottchen für olympische spiele 2020&quot;
+          title=&quot;Miraitowa roboter maskottchen für olympische spiele 2020&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4cc008e624db74c44464c2bc0fb99d6a/806b5/someity.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 145.25929806181247%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHoWx0dWEHnB1Ythgn/xAAbEAEAAgMBAQAAAAAAAAAAAAABAhAAETESIf/aAAgBAQABBQIx0U68y+UdZxkHAwgFf//EABgRAAMBAQAAAAAAAAAAAAAAAAECEBEh/9oACAEDAQE/AVXRA3J//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHBAAAQMFAAAAAAAAAAAAAAAAEQABEAIgITFx/9oACAEBAAY/AluMqnggugzC3//EAB0QAAIDAAIDAAAAAAAAAAAAAAABESExEEFRobH/2gAIAQEAAT8halLSXllSl/OHpyyDSSrATIQ6MR6UBgJaswkQf//aAAwDAQACAAMAAAAQq/Jy/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAMRBBUf/aAAgBAwEBPxBAV3ALXqEsuf/EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAgEBPxBdibP/xAAdEAEBAAICAwEAAAAAAAAAAAABEQBRIUExYXHR/9oACAEBAAE/EDNgEgHbkMMiheXYxcs6CbvWcHMBWuvnvFS5Fqh/TBTYCLEOjH5vM5yGF4xipfvn3gAgZ//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/4cc008e624db74c44464c2bc0fb99d6a/01472/someity.webp 240w,
+/static/4cc008e624db74c44464c2bc0fb99d6a/222bd/someity.webp 480w,
+/static/4cc008e624db74c44464c2bc0fb99d6a/620b9/someity.webp 960w,
+/static/4cc008e624db74c44464c2bc0fb99d6a/28063/someity.webp 1440w,
+/static/4cc008e624db74c44464c2bc0fb99d6a/34ef4/someity.webp 1920w,
+/static/4cc008e624db74c44464c2bc0fb99d6a/1ae9d/someity.webp 3818w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/4cc008e624db74c44464c2bc0fb99d6a/3bc27/someity.jpg 240w,
+/static/4cc008e624db74c44464c2bc0fb99d6a/98431/someity.jpg 480w,
+/static/4cc008e624db74c44464c2bc0fb99d6a/b3ee8/someity.jpg 960w,
+/static/4cc008e624db74c44464c2bc0fb99d6a/b97fe/someity.jpg 1440w,
+/static/4cc008e624db74c44464c2bc0fb99d6a/fb329/someity.jpg 1920w,
+/static/4cc008e624db74c44464c2bc0fb99d6a/806b5/someity.jpg 3818w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/4cc008e624db74c44464c2bc0fb99d6a/b3ee8/someity.jpg&quot;
+          alt=&quot;Someity roboter maskottchen für olympische spiele 2020&quot;
+          title=&quot;Someity roboter maskottchen für olympische spiele 2020&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Doch bei den Robotern mit Niedlichkeits-Faktor bleibt es nicht. Nach aktuelle Plänen werden die Sommerspiele in Tokyo den größte Einsatz von Technologie, der jemals bei einer Großveranstaltung eingesetzt wurde, erleben. Gleichzeitig bedeuten das Event schon heute einen wahreren Sprung für den Einsatz von AI-Technologien. Dafür arbeitet die japanische Regierung sowie die Tokioter Bezirksverwaltung eng mit diversen namhaften Unternehmen wie Panasonic, Mitsubishi oder Fujitsu zusammen, die die Technologien zur Verfügung stellen.&lt;/p&gt;
+&lt;h2 id=&quot;die-vorhersage-von-menschenströmen&quot;&gt;&lt;a href=&quot;#die-vorhersage-von-menschenstr%C3%B6men&quot; aria-label=&quot;die vorhersage von menschenströmen permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Die Vorhersage von Menschenströmen&lt;/h2&gt;
+&lt;p&gt;Einige der AI-Technologien, die während der Olympischen Spiele Anwendung finden werden, dienen dem „Crowd Management”. Dabei geht es um die Steuerung und den Schutz von großen Menschenmengen. Unter anderem kooperiert die Tokioter Polizei aktuell mit Panasonic, um ein System zur Vorhersage von Menschenströmen zu entwickeln. Kameras auf Polizeiautos liefern Daten über aktuelle Bewegungen von Menschengruppen, die automatisch in eine Cloud hochgeladen werden. Das Programm berechnet und analysiert die Informationen und liefert schließlich Prognosen für zukünftige Dynamiken von Menschenmengen.&lt;/p&gt;
+&lt;p&gt;Das Ziel ist es, Menschenströme und ihren Transport rund um die olympischen Sportstätten zu optimieren. Auf Grundlage von Langzeit- und Echtzeit-Daten werden elektronische Symbole und Smartphone-Nachrichten im Sommer 2020 die Fußgänger- und Fahrzeugflüsse steuern.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 640px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/92e8291eae8888594ba64987d19fb013/e2288/tokyo-crowd.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.09375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAZKjLNMQBf/EABwQAAEEAwEAAAAAAAAAAAAAAAIAAQMSBBMhM//aAAgBAQABBQLeSOW0keUNC4I+jAy//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABURAQEAAAAAAAAAAAAAAAAAAAAS/9oACAECAQE/AVP/xAAaEAACAgMAAAAAAAAAAAAAAAAAARESEFFx/9oACAEBAAY/AkWFaZ4KNMWP/8QAHBABAQACAgMAAAAAAAAAAAAAAREAITFBUYHh/9oACAEBAAE/IVpALFUytwMjNLnGw0Wk9Y2PX3GlTd85/9oADAMBAAIAAwAAABB8H//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxDBj//EABYRAQEBAAAAAAAAAAAAAAAAAAEAIf/aAAgBAgEBPxDSSN//xAAbEAEBAAMAAwAAAAAAAAAAAAABEQAhQXGhsf/aAAgBAQABPxB8ShR2eMkQCEU3A5ggIoq3j6IrSwj7m8qiI76MTNpVEX3n/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/92e8291eae8888594ba64987d19fb013/01472/tokyo-crowd.webp 240w,
+/static/92e8291eae8888594ba64987d19fb013/222bd/tokyo-crowd.webp 480w,
+/static/92e8291eae8888594ba64987d19fb013/c38ef/tokyo-crowd.webp 640w&quot;
+          sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/92e8291eae8888594ba64987d19fb013/3bc27/tokyo-crowd.jpg 240w,
+/static/92e8291eae8888594ba64987d19fb013/98431/tokyo-crowd.jpg 480w,
+/static/92e8291eae8888594ba64987d19fb013/e2288/tokyo-crowd.jpg 640w&quot;
+          sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/92e8291eae8888594ba64987d19fb013/e2288/tokyo-crowd.jpg&quot;
+          alt=&quot;Menschenmassen in tokyo&quot;
+          title=&quot;Menschenmassen in tokyo&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Doch die Technologie kann noch mehr: Sie ermöglicht es z. B., verdächtige Objekte in Menschenmengen oder Fahrzeuge, die in gesperrte Gebiete fahren, zu identifizieren. Die erkannten Gefahrenquellen werden automatisch an die Polizei gemeldet, die die Fälle anschließend prüft.&lt;/p&gt;
+&lt;h2 id=&quot;gesichtserkennung-bei-einlasskontrolle&quot;&gt;&lt;a href=&quot;#gesichtserkennung-bei-einlasskontrolle&quot; aria-label=&quot;gesichtserkennung bei einlasskontrolle permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Gesichtserkennung bei Einlasskontrolle&lt;/h2&gt;
+&lt;p&gt;Anlässlich der Olympischen Spiele wird zum ersten Mal bei einer Großveranstaltung Gesichtserkennung als Alternative zu Ticket- und ID-Kontrollen eingesetzt. Die AI-Technologie, die das ermöglicht, stammt aus dem Hause des Elektronikkonzerns NEC. An allen Eingängen zum Olympiagelände und den Sportstätten werden Kameras den etwa 12.000 Athleten, Mitarbeitern und Freiwilligen ein schnelles und unkompliziertes Ein- und Ausgehen ermöglichen.&lt;/p&gt;
+&lt;p&gt;Auch wenn die Technologie weniger Aufwand für das Personal vor Ort bedeutet: Gänzlich überflüssig wird die traditionelle ID-Karte dadurch nicht. Alle Betroffenen erhalten zusätzlich einen klassischen Ausweis, den sie auf Nachfrage vorzeigen müssen. Die Gesichtserkennung soll vor allem vermeiden, dass sich unbefugte mit gestohlenen IDs Zutritt zum Olympiagelände verschaffen.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/990b8ea7193c844553d6b9d451bb196e/39849/NEC-face-recognition.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 48.73713751169318%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABTVzMDUJI/8QAGRABAQADAQAAAAAAAAAAAAAAAQIAEzFB/9oACAEBAAEFAosHeBVC+12gz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAIDAQAAAAAAAAAAAAAAAAAQAQIRcf/aAAgBAQAGPwJbhVRw/8QAGhAAAwADAQAAAAAAAAAAAAAAAAEhEUFhUf/aAAgBAQABPyGJz0TmRdPZgnh26JZqEP/aAAwDAQACAAMAAAAQsD//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8Q2XG//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8QiP/EABsQAQEBAQEAAwAAAAAAAAAAAAERACExQXGx/9oACAEBAAE/EIyEYuQbu7aBeb9a0KgfTIAoi09e4gAJ39NUeQPjf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/990b8ea7193c844553d6b9d451bb196e/01472/NEC-face-recognition.webp 240w,
+/static/990b8ea7193c844553d6b9d451bb196e/222bd/NEC-face-recognition.webp 480w,
+/static/990b8ea7193c844553d6b9d451bb196e/620b9/NEC-face-recognition.webp 960w,
+/static/990b8ea7193c844553d6b9d451bb196e/9bf28/NEC-face-recognition.webp 1069w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/990b8ea7193c844553d6b9d451bb196e/3bc27/NEC-face-recognition.jpg 240w,
+/static/990b8ea7193c844553d6b9d451bb196e/98431/NEC-face-recognition.jpg 480w,
+/static/990b8ea7193c844553d6b9d451bb196e/b3ee8/NEC-face-recognition.jpg 960w,
+/static/990b8ea7193c844553d6b9d451bb196e/39849/NEC-face-recognition.jpg 1069w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/990b8ea7193c844553d6b9d451bb196e/b3ee8/NEC-face-recognition.jpg&quot;
+          alt=&quot;NEC Gesichtserkennung für Olympia 2020&quot;
+          title=&quot;NEC Gesichtserkennung für Olympia 2020&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Foto: &lt;a href=&quot;https://www.necam.com/newsroom/pressannouncements/2017announcements/NISTRanking/&quot; title=&quot;NEC&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Link&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;deep-learning-technologie-zur-erkennung-von-gefahrenquellen&quot;&gt;&lt;a href=&quot;#deep-learning-technologie-zur-erkennung-von-gefahrenquellen&quot; aria-label=&quot;deep learning technologie zur erkennung von gefahrenquellen permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Deep Learning-Technologie zur Erkennung von Gefahrenquellen&lt;/h2&gt;
+&lt;p&gt;Mitsubishi Electric hat ein Video-basiertes System entwickelt, das nach dem Vorbild von Nervenzellen im Gehirn auf Grundlage von Erfahrung lernt. Es erkennt in Menschenmengen z. B. Personen, die verdächtige oder verbotene Objekte bei sich tragen. Gleichzeitig machen sie in großen Menschenansammlungen körperlich behinderte oder geistig verwirrte Personen ausfindig, die möglicherweise auf Hilfe angewiesen sind und melden sie an die betreffenden Stellen.&lt;/p&gt;
+&lt;h2 id=&quot;aggressionserkennung&quot;&gt;&lt;a href=&quot;#aggressionserkennung&quot; aria-label=&quot;aggressionserkennung permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Aggressionserkennung&lt;/h2&gt;
+&lt;p&gt;Eine weitere Technologie, die zum „Crowd Management” beiträgt, wurde von dem japanischen Sicherheitsdienstleister ALSOK vorgestellt. Die Firma hat einen „Roboter-Streifenpolizisten” entwickelt. Dieser scannen mithilfe von eingebauten Kameras Menschenmengen und werten die Daten mit einem sogenannten „Emotional Visualization System” aus.&lt;/p&gt;
+&lt;p&gt;Studien haben gezeigt, dass Personen kurz vor kriminellen und terroristischen Handlung häufig auffällige Körpersignale wie Zucken, Zittern, aber auch eine errötete Hautfarbe aufzeigen. Der Polizeiroboter analysiert diese Körpersignale und erkennt, wer z. B. aggressiv oder gereizt sein könnte. Auf einem Display wird ihren menschlichen Kollegen schließlich farblich angezeigt, welche Personen sich auffällig verhalten. Getestet wurde die Technologie u. a. beim G7 Gipfel 2016 bei einer Taschenkontrolle. Hier hat der Roboter gezeigt, dass er ungeduldige und verärgerte Menschen in der Schlange ermitteln konnte.&lt;/p&gt;
+&lt;h2 id=&quot;toyota-stellt-autonom-fahrendes-roboter-auto-vor&quot;&gt;&lt;a href=&quot;#toyota-stellt-autonom-fahrendes-roboter-auto-vor&quot; aria-label=&quot;toyota stellt autonom fahrendes roboter auto vor permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Toyota stellt autonom fahrendes Roboter-Auto vor&lt;/h2&gt;
+&lt;p&gt;Weniger auf Sicherheit als auf Annehmlichkeit und Novelty-Faktor sind die eigens für die Olympiade produzierten Roboter von Toyota ausgerichtet. Bei dem „Field Support Robot” handelt es sich um ein Roboterfahrzeug in Form eines Miniatur-Busses, das autonom Wurfgeschosse einsammelt. Erst vor wenigen Tagen hat der japanische Autohersteller den Prototypen, der bis zu 20 km/h schnell fährt, der Öffentlichkeit vorgestellt.&lt;/p&gt;
+&lt;p&gt;Mit seinen drei Kameras und einem Lidar-Sensor macht er die Wettbewerbe in Wurfdisziplinen effizienter, indem er Speere und Wurfhämmer nach jedem Wurf selbstständig einsammelt und zurücktransportiert. So ermöglicht das Fahrzeug zeitliche und personelle Einsparungen und bietet zudem eine Show für das Publikum aus aller Welt.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/99b596263ef7814b0b531ab4bbc3d6b7/45751/Field-support-robot.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABxKpcVQhD/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAIBERMS/9oACAEBAAEFAnfk2jSy5Mls/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFxEBAAMAAAAAAAAAAAAAAAAAAQIQEf/aAAgBAgEBPwEY5X//xAAbEAABBAMAAAAAAAAAAAAAAAABABARIRIxUv/aAAgBAQAGPwIDpY2WEHSuS3//xAAZEAEBAAMBAAAAAAAAAAAAAAABEQAhMRD/2gAIAQEAAT8hs31QTDUjWcCeJOhVwsbXqvcc/9oADAMBAAIAAwAAABBcP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EFf/xAAWEQEBAQAAAAAAAAAAAAAAAAABIRD/2gAIAQIBAT8QgJc//8QAHhABAQABAwUAAAAAAAAAAAAAAREAECExUXGRobH/2gAIAQEAAT8QmfKJI0OY9caqZtDDuyr80RiGAAS+MSxtW592KMPef//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/99b596263ef7814b0b531ab4bbc3d6b7/01472/Field-support-robot.webp 240w,
+/static/99b596263ef7814b0b531ab4bbc3d6b7/222bd/Field-support-robot.webp 480w,
+/static/99b596263ef7814b0b531ab4bbc3d6b7/620b9/Field-support-robot.webp 960w,
+/static/99b596263ef7814b0b531ab4bbc3d6b7/28063/Field-support-robot.webp 1440w,
+/static/99b596263ef7814b0b531ab4bbc3d6b7/d5b77/Field-support-robot.webp 1500w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/99b596263ef7814b0b531ab4bbc3d6b7/3bc27/Field-support-robot.jpg 240w,
+/static/99b596263ef7814b0b531ab4bbc3d6b7/98431/Field-support-robot.jpg 480w,
+/static/99b596263ef7814b0b531ab4bbc3d6b7/b3ee8/Field-support-robot.jpg 960w,
+/static/99b596263ef7814b0b531ab4bbc3d6b7/b97fe/Field-support-robot.jpg 1440w,
+/static/99b596263ef7814b0b531ab4bbc3d6b7/45751/Field-support-robot.jpg 1500w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/99b596263ef7814b0b531ab4bbc3d6b7/b3ee8/Field-support-robot.jpg&quot;
+          alt=&quot;toyota field support roboter&quot;
+          title=&quot;toyota field support roboter&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;laser-roboter-bewerten-gymnastik-wettkämpfe&quot;&gt;&lt;a href=&quot;#laser-roboter-bewerten-gymnastik-wettk%C3%A4mpfe&quot; aria-label=&quot;laser roboter bewerten gymnastik wettkämpfe permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Laser-Roboter bewerten Gymnastik-Wettkämpfe&lt;/h2&gt;
+&lt;p&gt;Neben Toyota will auch Fujitsu seinen Anteil zur Technologisierung der Olympischen Spiele beitragen. In Kooperation mit dem japanischen Gymnastikverband hat das Unternehmen einen Roboter-Kampfrichter entwickelt, der Wettbewerbe der Rhythmischen Sportgymnastik möglichst fair beurteilen soll. Er funktioniert auf Grundlage von 3D-Lidar-Sensoren. Diese finden Körperpunkte der Athleten, verfolgt die Bewegungsabläufe und zeichnen Abweichungen zu einem vorher bestimmten Normalwert auf. Aus den Abweichungen ergibt schließlich die Bewertung der Athletinnen.&lt;/p&gt;
+&lt;p&gt;Der Roboter soll vermeiden, dass die subjektiven Geschmäcker der Juroren oder eine mögliche Bestechlichkeit den Wettbewerb unfair machen oder die Wertung verfälschen. Natürlich lässt sich auch hier darüber streiten, nach welchem Maßstab die Norm subjektiven ästhetischen Standards zugrunde liegt und wer sie festlegen sollte. Zumindest kann so jedoch sichergestellt werden, dass alle Sportlerinnen an denselben Maßstäben gemessen werden.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/72abcc45c18017729de96dc75a147e7c/d1f04/fujitsu-lidar-sensoren.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.69354838709677%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAAB7RkFybZyP//EABwQAAEDBQAAAAAAAAAAAAAAAAADBBEBAhIhMf/aAAgBAQABBQIbqVVt2dG8Rkf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARL/2gAIAQMBAT8Baj//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAGhABAAIDAQAAAAAAAAAAAAAAABExAQIScv/aAAgBAQAGPwJnqFIht6U//8QAGxAAAwEBAAMAAAAAAAAAAAAAAAERIUFRYZH/2gAIAQEAAT8hnp/RqJh8J4CqmxYcnLHLeD//2gAMAwEAAgADAAAAELzP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEhYf/aAAgBAwEBPxBVGh//xAAXEQEAAwAAAAAAAAAAAAAAAAAAEUFR/9oACAECAQE/ELTx/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFBUYHR/9oACAEBAAE/EFIjQVT2lwQYOPPyFjfLmzHFBhSBc8GC2nvuAK6l7n//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/72abcc45c18017729de96dc75a147e7c/01472/fujitsu-lidar-sensoren.webp 240w,
+/static/72abcc45c18017729de96dc75a147e7c/222bd/fujitsu-lidar-sensoren.webp 480w,
+/static/72abcc45c18017729de96dc75a147e7c/620b9/fujitsu-lidar-sensoren.webp 960w,
+/static/72abcc45c18017729de96dc75a147e7c/e1adb/fujitsu-lidar-sensoren.webp 1240w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/72abcc45c18017729de96dc75a147e7c/3bc27/fujitsu-lidar-sensoren.jpg 240w,
+/static/72abcc45c18017729de96dc75a147e7c/98431/fujitsu-lidar-sensoren.jpg 480w,
+/static/72abcc45c18017729de96dc75a147e7c/b3ee8/fujitsu-lidar-sensoren.jpg 960w,
+/static/72abcc45c18017729de96dc75a147e7c/d1f04/fujitsu-lidar-sensoren.jpg 1240w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/72abcc45c18017729de96dc75a147e7c/b3ee8/fujitsu-lidar-sensoren.jpg&quot;
+          alt=&quot;fujitsu lidar-sensoren&quot;
+          title=&quot;fujitsu lidar-sensoren&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;vorhersage-und-prävention-hitzebedingter-symptome&quot;&gt;&lt;a href=&quot;#vorhersage-und-pr%C3%A4vention-hitzebedingter-symptome&quot; aria-label=&quot;vorhersage und prävention hitzebedingter symptome permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Vorhersage und Prävention hitzebedingter Symptome&lt;/h2&gt;
+&lt;p&gt;In Tokyo steigen die Temperaturen im Sommer regelmäßig auf über 30 Grad bei einer konstant hohen Luftfeuchtigkeit. 2018 kamen im Rahmen einer Hitzewelle (&lt;a href=&quot;https://en.wikipedia.org/wiki/2018_Northeast_Asia_heat_wave&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://en.wikipedia.org/wiki/2018_Northeast_Asia_heat_wave&lt;/a&gt;) sogar 138 Menschen ums Leben, während über 70.000 ins Krankenhaus eingeliefert wurden. Angesichts solcher Aussichten für den Sommer 2020 wurden die olympischen Marathon-Veranstaltungen auf Anraten zweier japanischer Ärzteorganisationen bereits auf 5.30 Uhr vorverlegt. Viele weitere Sportarten sollen vermehrt auf den Abend verschoben werden.&lt;/p&gt;
+&lt;p&gt;Aber auch um die Gäste des Sportereignisses sorgt man sich: Yahoo Japan nutzt Künstliche Intelligenz, um anhand großer Datenmengen, die das japanische Umweltministerium zur Verfügung stellt, die Gefahr von Sonnenstich und Hitzeschlag vorherzusagen. Dieses System soll insbesondere während der olympischen Wettbewerbe eingesetzt werden, um an betroffenen Wettbewerbsstätten Aufklärung und Gegenmaßnahmen zu betreiben.&lt;/p&gt;
+&lt;h2 id=&quot;sicherheit-über-datenschutz&quot;&gt;&lt;a href=&quot;#sicherheit-%C3%BCber-datenschutz&quot; aria-label=&quot;sicherheit über datenschutz permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Sicherheit über Datenschutz?&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/22b670cae55c9b9bfa63d862b0ebed84/33840/Olympia-tokyo.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAUKiy82kwP8A/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECEgMQEf/aAAgBAQABBQKmNEowHwsxvX//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEgH/2gAIAQMBAT8BjEv/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEgH/2gAIAQIBAT8BvVv/xAAWEAEBAQAAAAAAAAAAAAAAAAAyACD/2gAIAQEABj8Ccs//xAAZEAEBAAMBAAAAAAAAAAAAAAABABExUXH/2gAIAQEAAT8hRavhC0GGe46MnWb/2gAMAwEAAgADAAAAEEzf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAFx8P/aAAgBAwEBPxB7ZZ//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFR/9oACAECAQE/EEkrD//EABsQAQEBAAIDAAAAAAAAAAAAAAERACExQVGB/9oACAEBAAE/EDkr97g7x1kcdgMdA+zd3Vl83Jvbv//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/22b670cae55c9b9bfa63d862b0ebed84/01472/Olympia-tokyo.webp 240w,
+/static/22b670cae55c9b9bfa63d862b0ebed84/222bd/Olympia-tokyo.webp 480w,
+/static/22b670cae55c9b9bfa63d862b0ebed84/620b9/Olympia-tokyo.webp 960w,
+/static/22b670cae55c9b9bfa63d862b0ebed84/28063/Olympia-tokyo.webp 1440w,
+/static/22b670cae55c9b9bfa63d862b0ebed84/34ef4/Olympia-tokyo.webp 1920w,
+/static/22b670cae55c9b9bfa63d862b0ebed84/d50d9/Olympia-tokyo.webp 5184w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/22b670cae55c9b9bfa63d862b0ebed84/3bc27/Olympia-tokyo.jpg 240w,
+/static/22b670cae55c9b9bfa63d862b0ebed84/98431/Olympia-tokyo.jpg 480w,
+/static/22b670cae55c9b9bfa63d862b0ebed84/b3ee8/Olympia-tokyo.jpg 960w,
+/static/22b670cae55c9b9bfa63d862b0ebed84/b97fe/Olympia-tokyo.jpg 1440w,
+/static/22b670cae55c9b9bfa63d862b0ebed84/fb329/Olympia-tokyo.jpg 1920w,
+/static/22b670cae55c9b9bfa63d862b0ebed84/33840/Olympia-tokyo.jpg 5184w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/22b670cae55c9b9bfa63d862b0ebed84/b3ee8/Olympia-tokyo.jpg&quot;
+          alt=&quot;Olympische spiele in tokyo&quot;
+          title=&quot;Olympische spiele in tokyo&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Ob Gesichtserkennung, Terror-Abwehr, eine faire und standardisierte Jury-Bewertung oder schlicht das Einsammeln von Wurfgeschossen – die Olympischen Spiele 2020 werden eine große Bandbreite technologischer Innovationen zur Schau stellen. Der praktische Nutzen ist nicht zu bestreiten, auch wenn kritische Stimmen zum Thema Datenschutz aus Japan bislang überraschend leise sind. Doch so kurz nach dem verheerenden Brandanschlag auf ein Filmstudio in Kyoto im Juli 2019 mit 33 Toten hat das Thema Sicherheit in Japan einen besonders großen Stellenwert, sodass die Sorge um das Großereignis 2020 gewissermaßen nachvollziehbar ist. Inwiefern der Einsatz von Gesichtserkennung o. ä. in autokratisch geführten Ländern in Zukunft jedoch genauso unbeschwert betrachtet werden sollte, ist eine Frage, mit der wir uns spätestens 2022 beschäftigen müssen, wenn die Olympischen Winterspiele in Peking abgehalten werden.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Die katastrophenresistente Lieferkette - So nutzt Toyota das „Kaizen”-Prinzip]]></title><description><![CDATA[Auch an Toyota ist das „Tōhoku-Erdbeben” im März 2011 nicht ohne Folgen vorbeigezogen. Erst drei Wochen später konnte das Unternehmen Aussagen zu allen Schäden, die Zulieferer genommen hatten, machen. Toyota musste schließlich die eigene Produktion für mehrere Monate erheblich herunterfahren.
+In Folge des Desasters wurden hier Konsequenzen gezogen, ganz im Sinne des „Kaizen”-Prinzips.]]></description><link>https://lumen.netlify.com/posts/die-katastrophenresistente-lieferkette/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/die-katastrophenresistente-lieferkette/</guid><pubDate>Sun, 28 Jul 2019 18:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Wie an vielen japanischen Firmen ist auch an Toyota das große „Tōhoku-Erdbeben” im März 2011 und die darauf folgende Tsunami nicht ohne Folgen vorbeigezogen. Erst drei Wochen später konnte das Unternehmen Aussagen zu allen Schäden, die Zulieferer genommen hatten, machen. Infolgedessen musste Toyota die eigene Produktion für mehrere Monate herunterfahren.&lt;/p&gt;
+&lt;p&gt;In Folge des Desasters wurden hier Konsequenzen gezogen, ganz im Sinne des „Kaizen”-Prinzips.&lt;/p&gt;
+&lt;h2 id=&quot;wofür-steht-kaizen&quot;&gt;&lt;a href=&quot;#wof%C3%BCr-steht-kaizen&quot; aria-label=&quot;wofür steht kaizen permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Wofür steht „Kaizen”?&lt;/h2&gt;
+&lt;figure class=&quot;float-right&quot; style=&quot;width: 540px&quot;&gt;
+	&lt;img src=&quot;/media/gutenberg.jpg&quot; alt=&quot;Gutenberg&quot;&gt;
+	&lt;figcaption&gt;Johannes Gutenberg&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Kaizen (改善, Japanisch für „Veränderung zum Besseren”) ist eine japanische Lebens- und vor allem Arbeitsphilosophie, die nach kontinuierlicher Verbesserung strebt. Dabei soll ein Produkt oder ein Prozess schrittweise optimiert werden. Anstatt den Erfolg nur in Innovationen zu sehen, die zu einer sprunghaften Verbesserung führen, beschreibt „Kaizen” einen graduellen Prozess, in dem nach und nach perfektioniert wird. Ausgangspunkt der Philosophie ist die Annahme, dass nur durch die stetige Suche nach Verbesserung eine ausgezeichnete Qualität und damit höchste Kundenzufriedenheit erzielt werden kann.&lt;/p&gt;
+&lt;p&gt;Das Prinzip wurde während der Nachkriegszeit und insbesondere bei der Firma Toyota geprägt. Ausschlaggebend war dabei vor allem das neue, von der amerikanischen Besetzung eingeführte Arbeitsrecht, die die Position der Arbeiter stärkte. Gleichzeitig befand sich die japanische Wirtschaft in einer Krise. Die oft auf Lebenszeit angestellten Mitarbeiter mussten für Unternehmen wie Toyota über einen Zeitraum von ca. 40 Jahren gewinnbringend bleiben. Aus diesem Grund hatte man ein großes Interesse daran, zunächst die Fähigkeiten der Arbeiter und Angestellten kontinuierlich zu verbessern.&lt;/p&gt;
+&lt;h2 id=&quot;die-nutzung-von-kaizen-in-japan-und-im-westen&quot;&gt;&lt;a href=&quot;#die-nutzung-von-kaizen-in-japan-und-im-westen&quot; aria-label=&quot;die nutzung von kaizen in japan und im westen permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Die Nutzung von Kaizen in Japan und im „Westen”&lt;/h2&gt;
+&lt;p&gt;Heute werden mit Kaizen je nach Unternehmen sehr unterschiedliche Ziele verfolgt. Das Hauptanliegen ist jedoch die Maximierung der Kundenzufriedenheit. Dahinter steckt maßgeblich der Wunsch nach einer gesteigerten Kundenzufriedenheit, da die Gewinnung von Neukunden teurer als Kundenbindung ist.&lt;/p&gt;
+&lt;p&gt;In diesem Sinne bestimmt die Kaizen-Philosophie drei wesentliche Faktoren:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kostensenkung&lt;/li&gt;
+&lt;li&gt;Qualitätssicherung&lt;/li&gt;
+&lt;li&gt;Zeiteffizienz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In Europa und Nordamerika wird Kaizen vor allem auf die Qualitätssicherung angewandt. In Japan fasst man das Prinzip deutlich großzügiger auf. An erster Stelle steht dort die stetige Veränderung, die auch in der Erweiterung von Funktionen oder die Neuorganisation der betriebsinternen Hierarchie liegen kann.&lt;/p&gt;
+&lt;h2 id=&quot;toyota-hat-konsequenzen-aus-der-katastrophe-gezogen&quot;&gt;&lt;a href=&quot;#toyota-hat-konsequenzen-aus-der-katastrophe-gezogen&quot; aria-label=&quot;toyota hat konsequenzen aus der katastrophe gezogen permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Toyota hat Konsequenzen aus der Katastrophe gezogen&lt;/h2&gt;
+&lt;p&gt;Ein Auto der Firma besteht nicht selten aus 30.000 Teilen, sodass der Engpass nach der verheerenden Erbeben- und Tsunami-Katastrophe 2011 nicht überrascht. Doch dass trotz tage- und nächtelanger Arbeit bei Toyota die Produktion sogar für zwei Wochen stillstand und für die nächsten sechs Monate nur eingeschränkt weiterproduziert werden konnte, hatte spürbare Folgen für die ursprünglichen Ertragsziele.&lt;/p&gt;
+&lt;p&gt;Seit 2013 arbeitet Toyota mit seinen Zulieferern zusammen, um eine Datenbank mit dem Namen „RESCUE System” aufzubauen.  Aktuell sind etwa 400.000 Zulieferer im System gelistet.&lt;/p&gt;
+&lt;h2 id=&quot;die-katastrophenresistente-lieferkette&quot;&gt;&lt;a href=&quot;#die-katastrophenresistente-lieferkette&quot; aria-label=&quot;die katastrophenresistente lieferkette permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Die katastrophenresistente Lieferkette&lt;/h2&gt;
+&lt;figure class=&quot;float-left&quot; style=&quot;width: 190px&quot;&gt;
+	&lt;img src=&quot;/media/printing-press.jpg&quot; alt=&quot;Early Printing Press&quot;&gt;
+	&lt;figcaption&gt;Early wooden printing press as depicted in 1568.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Sie visualisiert das Liefersystem und kann im Falle weiterer Katastrophen schnelle Klarheit bieten. Sobald eine Region von einem Unglück heimgesucht wird, kann Toyota sofort identifizieren, welche Zulieferer betroffen sein könnten. Im Sinne des Kaizen-Prinzips optimiert die Datenbank die Arbeitsweise des Unternehmens aber auch darüber hinaus: Die Visualisierung bietet zudem den Vorteil, dass Teile, die nur von einem Hersteller geliefert werden, können schnell erkannt werden können.&lt;/p&gt;
+&lt;p&gt;Auf Grundlage dieses Wissens hat man es bis heute geschafft, alternative Lieferketten für den Großteil der benötigten Komponenten aufzubauen - ein sogenanntes „Backup-System”. Es erfordert zwar, dass einige Lieferanten Teile ihres Know-hows preisgeben. Aufgrund der durch die langjährige Zusammenarbeit mit Toyota aufgebauten Vertrauensbeziehung funktioniert die Kooperation nach eigener Aussage bisher allerdings reibungslos.&lt;/p&gt;
+&lt;h2 id=&quot;besonders-aichi-präfektur-ist-eine-risiko-region&quot;&gt;&lt;a href=&quot;#besonders-aichi-pr%C3%A4fektur-ist-eine-risiko-region&quot; aria-label=&quot;besonders aichi präfektur ist eine risiko region permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Besonders Aichi-Präfektur ist eine Risiko-Region&lt;/h2&gt;
+&lt;p&gt;In der regelmäßig von Erdbeben heimgesuchten Region kann das RESCUE System jederzeit essenziell werden. Befürchtungen betreffen vor allem die Aichi-Präfektur süd-westlich von Tokyo. Erdbeben-Forscher sagen hier in den nächsten 30 Jahren ein massives Erdbeben im Ausmaß des Tōhoku-Erdbebens  von 2011 voraus, das Toyotas Lieferketten erneut auf die Probe stellen wird.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Dieser Artikel basiert u.a. auf einem Artikel vom 28.07.2019 in der &lt;a href=&quot;https://chuplus.jp/paper/article/detail.php?comment_id=658574&amp;#x26;comment_sub_id=0&amp;#x26;category_id=115&amp;#x26;from=news&amp;#x26;category_list=115&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;der Chunichi Shimbun&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Welche Rolle spielt IT in der Insolvenz?]]></title><description><![CDATA[In einer zunehmend digitalisierten Welt ist das Thema IT aus Insolvenzen, Sanierungen und Restrukturierungen inzwischen nicht mehr wegzudenken. Die Datenfluten, die im Rahmen solcher Projekte anfallen, reichen von der Buchhaltung über das Controlling bis hin zur Business Intelligence.
+Dabei kann eine Vernachlässigung des IT-Managements in Krisenunternehmen schwerwiegende finanzielle und rechtlichen Folgen haben.]]></description><link>https://lumen.netlify.com/posts/welche-rolle-spielt-it-in-der-insolvenz/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/welche-rolle-spielt-it-in-der-insolvenz/</guid><pubDate>Fri, 26 Jul 2019 20:40:32 GMT</pubDate><content:encoded>&lt;p&gt;In einer zunehmend digitalisierten Welt ist das Thema IT aus Insolvenzen, Sanierungen und Restrukturierungen heute nicht mehr wegzudenken. Die immer umfangreicher werdenden Daten, die im Rahmen solcher Projekte anfallen, reichen von der Buchhaltung über das Controlling bis hin zur Business Intelligence.&lt;/p&gt;
+&lt;p&gt;In der Regel gilt es, alle relevanten Daten zu importieren, zu analysieren und in Drittsysteme zu exportieren. Eine Vernachlässigung des IT-Managments kann dabei schwerwiegende finanzielle und rechtlichen Folgen haben.&lt;/p&gt;
+&lt;h2 id=&quot;die-vorteile-des-it-managements-in-krisenunternehmen&quot;&gt;&lt;a href=&quot;#die-vorteile-des-it-managements-in-krisenunternehmen&quot; aria-label=&quot;die vorteile des it managements in krisenunternehmen permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Die Vorteile des IT-Managements in Krisenunternehmen&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/media/IT-in-der-insolvenz.jpg&quot; alt=&quot;IT-in-der-insolvenz.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Einwandfrei aufbereitete Daten sind aus einer Reihe von Gründen notwendig. So müssen z.B. insolvenzrechtliche Rechnungslegungen, insbesondere aus  digitalen Kontenplänen der Buchhaltung, abgeleitet werden.&lt;/p&gt;
+&lt;p&gt;Gleichzeitig schaffen die Daten eine wichtige Beweissicherung für :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Anfechtungstatbestände&lt;/li&gt;
+&lt;li&gt;Haftungsbestände&lt;/li&gt;
+&lt;li&gt;Kundenforderungen&lt;/li&gt;
+&lt;li&gt;Gläubigerbefriedigung&lt;/li&gt;
+&lt;li&gt;Vergütungsabrechnung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Um revisionssichere und damit gerichtsfeste Daten zu erhalten, ist ein ganzheitliches IT-Management daher unumgänglich.&lt;/p&gt;
+&lt;p&gt;Das alles geht mit einem großen organisatorischen Aufwand einher, der nicht selten fortgeschrittene IT-Kenntnissen voraussetzt. Nur die wenigsten Insolvenzverwalter und Sachwalter können, gerade bei großen Datenmengen und einer hohen Komplexität der Daten, diese Aufgabe alleine bewältigen. IT-Dienstleister bieten hier eine wertvolle Unterstützung und ermöglichen es Ihnen zudem, unnötige Kosten einzusparen.&lt;/p&gt;
+&lt;h2 id=&quot;verschiedene-it-systeme-erschweren-die-abwicklung-von-insolvenzen&quot;&gt;&lt;a href=&quot;#verschiedene-it-systeme-erschweren-die-abwicklung-von-insolvenzen&quot; aria-label=&quot;verschiedene it systeme erschweren die abwicklung von insolvenzen permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Verschiedene IT-Systeme erschweren die Abwicklung von Insolvenzen&lt;/h2&gt;
+&lt;p&gt;Die IT-Systeme der verschiedenen Unternehmensbereiche sind oft verschieden und sehr komplex. Es ist daher eine Herausforderung, Daten und Informationen aus verschiedenen Systemen und Unternehmensbereichen zusammenzuführen, ordnungsgemäß zu verarbeiten und zu exportieren.&lt;/p&gt;
+&lt;p&gt;Konkret handelt es sich dabei um ein Bündel von Maßnahmen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;die Ablösung veralteter IT-Systeme und Applikationen (Migration)&lt;/li&gt;
+&lt;li&gt;die Langzeitarchivierung von IT-Systemen (Hibernation)&lt;/li&gt;
+&lt;li&gt;die Stilllegung von IT-Systemen (Discontinuation)&lt;/li&gt;
+&lt;li&gt;der Transfer von Buchungskreisen und von Betriebsdaten (Spin-Off)&lt;/li&gt;
+&lt;li&gt;die Trennung der IT-Systeme für Unternehmensaufteilungen (Carve-Out)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;der-richtige-umgang-mit-daten-kann-erhebliche-kosten-sparen&quot;&gt;&lt;a href=&quot;#der-richtige-umgang-mit-daten-kann-erhebliche-kosten-sparen&quot; aria-label=&quot;der richtige umgang mit daten kann erhebliche kosten sparen permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Der richtige Umgang mit Daten kann erhebliche Kosten sparen!&lt;/h2&gt;
+&lt;p&gt;Passiert all das in Insolvenzverfahren bzw. in Sanierungs- oder Restrukturierungsprojekten möglichst frühzeitig, können kurz- und langfristig enorme EDV-Kosten gespart werden. Gleichzeitig können Sie sich als Verantwortlicher jederzeit sicher sein, dass Sie durch die revisionssicheren Kopien ihrer Daten auch rechtlich abgesichert sind.&lt;/p&gt;
+&lt;h2 id=&quot;fazit&quot;&gt;&lt;a href=&quot;#fazit&quot; aria-label=&quot;fazit permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Fazit&lt;/h2&gt;
+&lt;p&gt;Ein IT-Management ist aus Krisenunternehmen nicht mehr wegzudenken. Gerade bei größeren Firmen und komplexen Systemen lohnt es sich, professionelle IT-Services, wie sie INSO Projects bietet, in Anspruch zu nehmen.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ursprünglich veröffentlicht von Ina Möllers im  &lt;a href=&quot;https://www.inso-projects.de/it-insolvenz/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;INSO Projects Blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Die 5 Arten der digitalen Datensicherung]]></title><description><![CDATA[Für die digitale Datensicherung in Insolvenzen, Sanierungen und Restrukturierungen bieten sich fünf grundlegende Vorgehensweisen an. Dabei muss je nach Projekt entschieden werden, welches Verfahren eingesetzt werden sollte.
+Erfahren Sie hier mehr über die 5 Arten der Datensicherung und welche von ihnen sich optimal für ein strukturiertes Datenmanagement und die Erstellung revisionssicherer Daten im Krisenunternehmen eignet!]]></description><link>https://lumen.netlify.com/posts/perfecting-the-art-of-perfection/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/perfecting-the-art-of-perfection/</guid><pubDate>Wed, 24 Jul 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0249a8579cfb4088acaf23fcac068444/98235/image-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaa8hyWBEP/EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBP/2gAIAQEAAQUCPOXmbM+hSK5BbqszP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAHRAAAAYDAQAAAAAAAAAAAAAAAAECEBESISJxof/aAAgBAQAGPwKbkNIVwVWWWr63/8QAGhAAAgMBAQAAAAAAAAAAAAAAAREAITFh8P/aAAgBAQABPyHbaCbqFUIALwzeF3J0kLuA4Fxz/9oADAMBAAIAAwAAABAAD//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8QE7av/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxB14Sf/xAAcEAEAAgMBAQEAAAAAAAAAAAABABEhQVFxYaH/2gAIAQEAAT8Q1tFIaHmY6qk11VGkZj6wxb8ghG+u+9lAPcYAPnIq1crlXc//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/0249a8579cfb4088acaf23fcac068444/01472/image-2.webp 240w,
+/static/0249a8579cfb4088acaf23fcac068444/222bd/image-2.webp 480w,
+/static/0249a8579cfb4088acaf23fcac068444/620b9/image-2.webp 960w,
+/static/0249a8579cfb4088acaf23fcac068444/28063/image-2.webp 1440w,
+/static/0249a8579cfb4088acaf23fcac068444/44134/image-2.webp 1800w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/0249a8579cfb4088acaf23fcac068444/3bc27/image-2.jpg 240w,
+/static/0249a8579cfb4088acaf23fcac068444/98431/image-2.jpg 480w,
+/static/0249a8579cfb4088acaf23fcac068444/b3ee8/image-2.jpg 960w,
+/static/0249a8579cfb4088acaf23fcac068444/b97fe/image-2.jpg 1440w,
+/static/0249a8579cfb4088acaf23fcac068444/98235/image-2.jpg 1800w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/0249a8579cfb4088acaf23fcac068444/b3ee8/image-2.jpg&quot;
+          alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
+          title=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.&lt;/p&gt;
+&lt;p&gt;Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[5 Tipps, um Ihr Wohlbefinden auf Geschäftsreise zu steigern]]></title><description><![CDATA[Wer schon einmal beruflich längere Zeit in einer anderen Stadt verbracht hat, weiß, wie anstrengend Geschäftsreisen für Körper und Geist sein können. Doch es gibt einige einfache Wege und Möglichkeiten, sich auch unterwegs fit zu fühlen und gesund zu bleiben.]]></description><link>https://lumen.netlify.com/posts/5-tipps-wohlbefinden-auf-geschaeftsreise/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/5-tipps-wohlbefinden-auf-geschaeftsreise/</guid><pubDate>Fri, 09 Mar 2018 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Wer schon einmal beruflich längere Zeit in einer anderen Stadt verbracht hat, weiß, wie anstrengend Geschäftsreisen für Körper und Geist sein können. Doch es gibt einige einfache Wege und Möglichkeiten, sich auch unterwegs fit zu fühlen und gesund zu bleiben.&lt;/p&gt;
+&lt;p&gt;In diesem Artikel haben wir einige praktische Tipps zusammengestellt, mit denen Sie Ihr Wohlbefinden auf Geschäftsreisen verbessern können.&lt;/p&gt;
+&lt;h2 id=&quot;1--trinken-sie-genug-wasser&quot;&gt;&lt;a href=&quot;#1--trinken-sie-genug-wasser&quot; aria-label=&quot;1  trinken sie genug wasser permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1.  Trinken Sie genug Wasser&lt;/h2&gt;
+&lt;p&gt;Einer der Hauptgründe für Trägheit und Müdigkeit auf Reisen ist, dass viele Menschen unterwegs zu wenig trinken. Besonders wenn Sie mit dem Flugzeug und durch verschiedene Zeitzonen reisen, sollten Sie daher darauf achten, viel zu trinken sowie Koffein und Alkohol zu vermeiden.&lt;/p&gt;
+&lt;h2 id=&quot;2-achten-sie-darauf-genügend-schlaf-zu-bekommen&quot;&gt;&lt;a href=&quot;#2-achten-sie-darauf-gen%C3%BCgend-schlaf-zu-bekommen&quot; aria-label=&quot;2 achten sie darauf genügend schlaf zu bekommen permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. Achten Sie darauf, genügend Schlaf zu bekommen&lt;/h2&gt;
+&lt;p&gt;Wenn Sie nicht in Ihrer gewohnten Umgebung arbeiten und schlafen, ist es nicht immer einfach, regelmäßig früh ins Bett zu gehen. Geschäftsreisen gehen darüber hinaus oft mit straffen Terminkalendern einher. Doch Schlafmangel führt zu körperlicher Schlappheit und kann zu langfristigen Schlaf- und Hormonstörungen sowie anderen chronischen Krankheiten führen. Deshalb ist es wichtig, aktiv genug Zeit für Schlaf einzuplanen.&lt;/p&gt;
+&lt;p&gt;Wenn Sie dazu neigen, auf Geschäftsreise weniger als gewöhnlich zu schlafen, können Ihnen Apps helfen, die Sie an Ihre Schlafenszeit erinnern. Sowohl für iOS als auch für Android Smartphones gibt es mittlerweile eine große Auswahl.&lt;/p&gt;
+&lt;h2 id=&quot;3-halten-sie-ihre-gewohnten-mahlzeiten-ein&quot;&gt;&lt;a href=&quot;#3-halten-sie-ihre-gewohnten-mahlzeiten-ein&quot; aria-label=&quot;3 halten sie ihre gewohnten mahlzeiten ein permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. Halten Sie Ihre gewohnten Mahlzeiten ein&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Kochen Sie Ihre eigenen Gerichte&lt;/strong&gt;&lt;br&gt;
+Heutzutage gibt es diverse Arten von Unterkünften für Geschäftsreisende. Einige davon bieten auch Kochmöglichkeiten an, z.B. Serviced Apartments. So können Sie Ihre eigenen gesunden Mahlzeiten zubereiten und sind nicht jeden Tag auf teures und kalorienreiches Restaurantessen angewiesen. Für langfristige Geschäftsreisen von 30 Tagen und mehr bietet Homelike möblierte Wohnungen mit einer voll ausgestatteten Küche an.&lt;/p&gt;
+&lt;p&gt;Die Kochgelegenheit ermöglicht es Ihnen, leckere und gesunde Mahlzeiten zu zaubern,  für die Sie auf Kitchen Stories und ähnlichen Webseiten und Apps eine Vielzahl an Rezepten finden können. So können Sie selbst kulinarische Delikatessen wie Türkische Linsensuppe einfach zuhause zubereiten.&lt;/p&gt;
+&lt;p&gt;[…]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bringen Sie Ihre eigenen Snacks mit&lt;/strong&gt;&lt;br&gt;
+Ungesunde Snacks sind günstig und noch dazu überall erhältlich. Wer unterwegs hungrig wird, lässt sich daher leicht verführen. Wir empfehlen Ihnen, Snacks wie Vollkorn-Sandwiches, Studentenfutter oder Smoothies einzupacken.&lt;/p&gt;
+&lt;h2 id=&quot;4-treiben-sie-regelmäßig-sport&quot;&gt;&lt;a href=&quot;#4-treiben-sie-regelm%C3%A4%C3%9Fig-sport&quot; aria-label=&quot;4 treiben sie regelmäßig sport permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;4. Treiben Sie regelmäßig Sport&lt;/h2&gt;
+&lt;p&gt;Bewegung ist für einen gesunden Lebensstil unerlässlich. Es ist auf Geschäftsreise nicht immer einfach, die Motivation zu finden, ins Fitnessstudio zu gehen. Wer jedoch ein bisschen Jogging oder andere Sportarten in seinen Lebensstil auf Geschäftsreise integriert, wird mit einer verbesserten Immunabwehr und Fitness belohnt. Halten Sie nach Möglichkeit Ausschau nach lokalen Fitnessstudios und Sportvereinen, die Tageskarten und Mitgliedschaften für kürzere Zeiträume anbieten.&lt;/p&gt;
+&lt;h2 id=&quot;5-so-erleichtern-sie-ihrem-körper-die-arbeit&quot;&gt;&lt;a href=&quot;#5-so-erleichtern-sie-ihrem-k%C3%B6rper-die-arbeit&quot; aria-label=&quot;5 so erleichtern sie ihrem körper die arbeit permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;5. So erleichtern Sie Ihrem Körper die Arbeit&lt;/h2&gt;
+&lt;p&gt;Viele Geschäftsreisende haben Probleme mit ihrer Verdauung. Das ist vor allem der Fall, wenn sie unregelmäßig essen und abends im Restaurant große Mahlzeiten zu sich nehmen. […]&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Der vollständige Artikel wurde ursprünglich von Ina Möllers im &lt;a href=&quot;https://www.thehomelike.com/magazin/5-tipps-fuer-wohlbefinden-auf-geschaeftsreise/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Homelike Magazin&lt;/a&gt; veröffentlicht.&lt;/em&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
