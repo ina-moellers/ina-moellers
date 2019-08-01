@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Portfolio von Ina Möllers',
+  title: 'Ina Möllers | Content & SEO Manager',
   subtitle: 'Hi.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -12,25 +12,23 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Artikel',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Über mich',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+
+
   ],
   author: {
     name: 'Ina Möllers',
     photo: '/photo.jpg',
-    bio: 'Hallo.',
+    bio: 'Content | SEO | Social Media Managerin aus Köln',
     contacts: {
-      email: 'ina.moellers@gmail.com',
-
+      email: 'ina.moellers@gmx.de',
+      linkedin: 'abc'
     }
   }
 };
